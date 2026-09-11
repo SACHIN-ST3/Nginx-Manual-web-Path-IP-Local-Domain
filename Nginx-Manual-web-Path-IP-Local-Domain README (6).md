@@ -1,4 +1,4 @@
-# Nginx Static Website Hosting on RHEL 10
+# Nginx Static Website  on manual web path like /home/mywebsite/... Hosting on RHEL 10
 
 ## Project Objective
 
