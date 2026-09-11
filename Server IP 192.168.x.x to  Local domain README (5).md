@@ -1,4 +1,4 @@
-# LAB 2  Nginx set up the local domain to Server ip 192.168.x.x — IP Address → and Local Domain Name using Windows hosts
+# LAB 2  Nginx setup: Server IP 192.168.x.x to  Local domain  — IP Address → and Local Domain Name using Windows hosts
 
 ## Goal
 ```text
